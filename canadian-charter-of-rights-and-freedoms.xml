@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="canadian-charter-of-rights-and-freedoms.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+  <documentCollection name="constitution" contains="singleVersion">
+    <meta>
+      <identification source="#gvergottini">
+        <FRBRWork>
+          <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/!main"/>
+          <FRBRuri value="/akn/ca/act/1982/constitution-act-1982"/>
+          <FRBRalias value="Canadian Charter of Rights and Freedoms" name="short"/>
+          <FRBRdate date="1982-04-17" name="proclamation"/>
+          <FRBRauthor href="#parl" as="#author"/>
+          <FRBRcountry value="ca"/>
+          <FRBRsubtype value="constitution"/>
+          <FRBRname value="constitution"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/mul@1993-03-12/!main"/>
+          <FRBRuri value="/akn/ca/act/1982/constitution-act-1982/mul@1993-03-12"/>
+          <FRBRdate date="1993-03-12" name="amendment"/>
+          <FRBRauthor href="#parl" as="#author"/>
+          <FRBRlanguage language="mul"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/mul@1993-03-12/!main.xml"/>
+          <FRBRuri value="/akn/ca/act/1982/constitution-act-1982/mul@1993-03-12.xml"/>
+          <FRBRdate date="2026-11-03" name="markup"/>
+          <FRBRauthor href="#gvergottini" as="#editor"/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#gvergottini">
+        <TLCOrganization eId="parl" GUID="72667964-6458-4E5F-9CE6-F8D31A0CF201" href="/ontology/organization/ca.parliament" showAs="Parliament of Canada"/>
+        <TLCPerson eId="gvergottini" GUID="749E65E2-67C5-4461-95E4-6784106BACC6" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" GUID="FF78755C-58C5-4135-AF8E-DC4AF0D8BA9D" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor" GUID="62C86E4A-D29E-4ABB-9775-E67F91427ECF" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+    </meta>
+    <coverPage>
+      <p class="band">Canadian Charter of Rights and Freedoms · Charte canadienne des droits et libertés</p>
+    </coverPage>
+    <collectionBody>
+      <component eId="cmp_eng" GUID="4D56345E-88CB-49A5-9F46-324E8F1B2A91">
+      <act name="constitution" contains="singleVersion">
+        <meta>
+          <identification source="#gv_eng">
+            <FRBRWork>
+              <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/!main"/>
+              <FRBRuri value="/akn/ca/act/1982/constitution-act-1982"/>
+              <FRBRdate date="1982-04-17" name="proclamation"/>
+              <FRBRauthor href="#parl_eng" as="#author_eng"/>
+              <FRBRcountry value="ca"/>
+              <FRBRsubtype value="constitution"/>
+              <FRBRname value="constitution"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/eng@1993-03-12/!main"/>
+              <FRBRuri value="/akn/ca/act/1982/constitution-act-1982/eng@1993-03-12"/>
+              <FRBRdate date="1993-03-12" name="amendment"/>
+              <FRBRauthor href="#parl_eng" as="#author_eng"/>
+              <FRBRauthoritative value="true"/>
+              <FRBRlanguage language="eng"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/eng@1993-03-12/!main.xml"/>
+              <FRBRuri value="/akn/ca/act/1982/constitution-act-1982/eng@1993-03-12.xml"/>
+              <FRBRdate date="2026-11-03" name="markup"/>
+              <FRBRauthor href="#gv_eng" as="#editor_eng"/>
+              <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+          </identification>
+          <references source="#gv_eng">
+            <TLCOrganization eId="parl_eng" GUID="7E3DB7EE-7F99-43ED-870F-DA3BAE8070C3" href="/ontology/organization/ca.parliament" showAs="Parliament of Canada"/>
+            <TLCPerson eId="gv_eng" GUID="79EB6420-B952-40BC-A04D-061166907AA4" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_eng" GUID="0A8E37BE-1650-4F4F-9273-7237D0F61EA9" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_eng" GUID="F83E1499-3789-416F-9BF9-D29B04F02977" href="/ontology/role/editor" showAs="Editor"/>
+          </references>
+        </meta>
+        <preface xml:lang="en">
+          <p class="title"><docTitle>Canadian Charter of Rights and Freedoms</docTitle></p>
+          <p class="source">Part I of the Constitution Act, 1982, being Schedule B to the Canada Act 1982 (UK), 1982, c 11</p>
+          <p class="status">As in force today, with the amendments of 1983 and 1993. Not an official version. Source: Justice Canada.</p>
+        </preface>
+        <preamble xml:lang="en">
+          <recitals>
+            <recital eId="cmp_eng__rec_1" GUID="1E99250A-FB80-4594-8BB4-42508930092B"><p>Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law:</p></recital>
+          </recitals>
+        </preamble>
+        <body xml:lang="en">
+        <part eId="cmp_eng__part_I" GUID="A2736D25-2CE3-4311-8659-2ED936E7F907">
+          <num>PART I</num>
+          <heading>Canadian Charter of Rights and Freedoms</heading>
+          <division eId="cmp_eng__part_I__dvs_1" GUID="BA89F35F-2BC4-499F-B2D2-3F267F956875">
+            <heading>Guarantee of Rights and Freedoms</heading>
+            <section eId="cmp_eng__sec_1" GUID="DE60E824-8A14-449A-AE40-E33F42DED0A9">
+              <num>1</num>
+              <heading>Rights and freedoms in Canada</heading>
+              <content><p>The <i>Canadian Charter of Rights and Freedoms</i> guarantees the rights and freedoms set out in it subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_2" GUID="1FE46984-E032-4710-9005-8FED59E88FF2">
+            <heading>Fundamental Freedoms</heading>
+            <section eId="cmp_eng__sec_2" GUID="56BB48A0-1AE1-472F-846B-E079276E0883">
+              <num>2</num>
+              <heading>Fundamental freedoms</heading>
+              <intro><p>Everyone has the following fundamental freedoms:</p></intro>
+              <list eId="cmp_eng__sec_2__list_1" GUID="B95DF6A9-1164-428E-842E-7324B0453A6F">
+                <point eId="cmp_eng__sec_2__list_1__point_a" GUID="58BBEE62-BF37-499F-A42A-815C7DA3E4EA">
+                  <num>(a)</num>
+                  <content><p>freedom of conscience and religion;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_2__list_1__point_b" GUID="883A7133-6049-49E9-BA8A-59494BA8F554">
+                  <num>(b)</num>
+                  <content><p>freedom of thought, belief, opinion and expression, including freedom of the press and other media of communication;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_2__list_1__point_c" GUID="069AF99C-2DE2-484C-B8BC-F5C4B0777185">
+                  <num>(c)</num>
+                  <content><p>freedom of peaceful assembly; and</p></content>
+                </point>
+                <point eId="cmp_eng__sec_2__list_1__point_d" GUID="2896186F-F2F1-47A7-891E-4BAD12308D4C">
+                  <num>(d)</num>
+                  <content><p>freedom of association.</p></content>
+                </point>
+              </list>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_3" GUID="C0751AA7-4C76-4032-8D74-5B339147406A">
+            <heading>Democratic Rights</heading>
+            <section eId="cmp_eng__sec_3" GUID="376B238C-5773-4611-822B-3850F24DD276">
+              <num>3</num>
+              <heading>Democratic rights of citizens</heading>
+              <content><p>Every citizen of Canada has the right to vote in an election of members of the House of Commons or of a legislative assembly and to be qualified for membership therein.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_4" GUID="FA35D65C-EE0C-49D0-8FCA-9C2BC6DAC202">
+              <num>4</num>
+              <subsection eId="cmp_eng__sec_4__subsec_1" GUID="42003220-5077-497B-8A4C-CD3E06D122BB">
+                <num>(1)</num>
+                <heading>Maximum duration of legislative bodies</heading>
+                <content><p>No House of Commons and no legislative assembly shall continue for longer than five years from the date fixed for the return of the writs of a general election of its members.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_4__subsec_2" GUID="77C68DB7-C010-4C5D-8B4E-C942824F254D">
+                <num>(2)</num>
+                <heading>Continuation in special circumstances</heading>
+                <content><p>In time of real or apprehended war, invasion or insurrection, a House of Commons may be continued by Parliament and a legislative assembly may be continued by the legislature beyond five years if such continuation is not opposed by the votes of more than one-third of the members of the House of Commons or the legislative assembly, as the case may be.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_5" GUID="C5914121-81C4-461D-AC2C-4D039C70E196">
+              <num>5</num>
+              <heading>Annual sitting of legislative bodies</heading>
+              <content><p>There shall be a sitting of Parliament and of each legislature at least once every twelve months.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_4" GUID="71A07116-B665-45BF-9CB2-1C9318269A54">
+            <heading>Mobility Rights</heading>
+            <section eId="cmp_eng__sec_6" GUID="04064C5A-032C-4C5A-8A62-5F20248A1CA9">
+              <num>6</num>
+              <subsection eId="cmp_eng__sec_6__subsec_1" GUID="A311B73F-814A-40D4-B285-8759DE28A92E">
+                <num>(1)</num>
+                <heading>Mobility of citizens</heading>
+                <content><p>Every citizen of Canada has the right to enter, remain in and leave Canada.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_6__subsec_2" GUID="441E9840-90BA-415F-A6CE-7E467BDF23A5">
+                <num>(2)</num>
+                <heading>Rights to move and gain livelihood</heading>
+                <intro><p>Every citizen of Canada and every person who has the status of a permanent resident of Canada has the right</p></intro>
+                <list eId="cmp_eng__sec_6__subsec_2__list_1" GUID="9B09754D-2B42-41CB-ADD1-6B380A406AD9">
+                  <point eId="cmp_eng__sec_6__subsec_2__list_1__point_a" GUID="3A2DA9EC-70E6-4333-BB9D-53C87284A2EE">
+                    <num>(a)</num>
+                    <content><p>to move to and take up residence in any province; and</p></content>
+                  </point>
+                  <point eId="cmp_eng__sec_6__subsec_2__list_1__point_b" GUID="8B698676-7B97-45CA-9D9F-FE1C36770F11">
+                    <num>(b)</num>
+                    <content><p>to pursue the gaining of a livelihood in any province.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_eng__sec_6__subsec_3" GUID="21FFC18A-CC72-4C09-BB7B-7215B379B6E8">
+                <num>(3)</num>
+                <heading>Limitation</heading>
+                <intro><p>The rights specified in subsection <ref href="#cmp_eng__sec_6__subsec_2">(2)</ref> are subject to</p></intro>
+                <list eId="cmp_eng__sec_6__subsec_3__list_1" GUID="308EE035-038B-40D9-83F4-20324A5BEA95">
+                  <point eId="cmp_eng__sec_6__subsec_3__list_1__point_a" GUID="B321066D-6FAC-4841-976C-BE58FAC07CB3">
+                    <num>(a)</num>
+                    <content><p>any laws or practices of general application in force in a province other than those that discriminate among persons primarily on the basis of province of present or previous residence; and</p></content>
+                  </point>
+                  <point eId="cmp_eng__sec_6__subsec_3__list_1__point_b" GUID="A19298E9-E83C-4029-A8FF-8DAEE525845A">
+                    <num>(b)</num>
+                    <content><p>any laws providing for reasonable residency requirements as a qualification for the receipt of publicly provided social services.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_eng__sec_6__subsec_4" GUID="985B2E03-4B86-43A4-B7B1-1446DE180B0F">
+                <num>(4)</num>
+                <heading>Affirmative action programs</heading>
+                <content><p>Subsections <ref href="#cmp_eng__sec_6__subsec_2">(2)</ref> and <ref href="#cmp_eng__sec_6__subsec_3">(3)</ref> do not preclude any law, program or activity that has as its object the amelioration in a province of conditions of individuals in that province who are socially or economically disadvantaged if the rate of employment in that province is below the rate of employment in Canada.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_5" GUID="1CB22F23-0A80-4471-A68F-F3D6349F1A1F">
+            <heading>Legal Rights</heading>
+            <section eId="cmp_eng__sec_7" GUID="A4EFDCBF-A273-4CA6-8821-6BB8F1A382E4">
+              <num>7</num>
+              <heading>Life, liberty and security of person</heading>
+              <content><p>Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_8" GUID="F4A7F1F3-E287-4F31-834C-957E5EC8A2E4">
+              <num>8</num>
+              <heading>Search or seizure</heading>
+              <content><p>Everyone has the right to be secure against unreasonable search or seizure.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_9" GUID="8CF88234-AB44-4A1F-8EE8-02F4B614C082">
+              <num>9</num>
+              <heading>Detention or imprisonment</heading>
+              <content><p>Everyone has the right not to be arbitrarily detained or imprisoned.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_10" GUID="F76AFCAC-3C30-41D6-8E5C-F52D48911E8C">
+              <num>10</num>
+              <heading>Arrest or detention</heading>
+              <intro><p>Everyone has the right on arrest or detention</p></intro>
+              <list eId="cmp_eng__sec_10__list_1" GUID="0546EB3A-7FB2-4F12-9665-9816B7FB242D">
+                <point eId="cmp_eng__sec_10__list_1__point_a" GUID="64AD892D-083E-4133-B924-7EAC14EB293D">
+                  <num>(a)</num>
+                  <content><p>to be informed promptly of the reasons therefor;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_10__list_1__point_b" GUID="AA497B9A-FDB2-4A7E-8FBA-80102435D5C8">
+                  <num>(b)</num>
+                  <content><p>to retain and instruct counsel without delay and to be informed of that right; and</p></content>
+                </point>
+                <point eId="cmp_eng__sec_10__list_1__point_c" GUID="B47D1EC1-26F2-4C00-9240-98D5F1F4C1E8">
+                  <num>(c)</num>
+                  <content><p>to have the validity of the detention determined by way of <i>habeas corpus</i> and to be released if the detention is not lawful.</p></content>
+                </point>
+              </list>
+            </section>
+            <section eId="cmp_eng__sec_11" GUID="77B32095-4D74-4B43-B165-FC14A2350469">
+              <num>11</num>
+              <heading>Proceedings in criminal and penal matters</heading>
+              <intro><p>Any person charged with an offence has the right</p></intro>
+              <list eId="cmp_eng__sec_11__list_1" GUID="A11AE861-AE59-42B3-B218-6CF2B3C63A91">
+                <point eId="cmp_eng__sec_11__list_1__point_a" GUID="012AD275-4923-40E4-BCDB-A1406944F004">
+                  <num>(a)</num>
+                  <content><p>to be informed without unreasonable delay of the specific offence;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_b" GUID="6846371C-5E7A-4821-AA5B-A1E82C4EB0D8">
+                  <num>(b)</num>
+                  <content><p>to be tried within a reasonable time;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_c" GUID="AFC7AF5B-0445-4493-80B2-33A52289E1FB">
+                  <num>(c)</num>
+                  <content><p>not to be compelled to be a witness in proceedings against that person in respect of the offence;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_d" GUID="BA92FF9C-5D51-4918-B5AF-A8EFED4D772B">
+                  <num>(d)</num>
+                  <content><p>to be presumed innocent until proven guilty according to law in a fair and public hearing by an independent and impartial tribunal;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_e" GUID="1106001E-7A92-44E3-A8D2-617EF7076307">
+                  <num>(e)</num>
+                  <content><p>not to be denied reasonable bail without just cause;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_f" GUID="18035FFD-1D24-4255-B974-E022DCDEE127">
+                  <num>(f)</num>
+                  <content><p>except in the case of an offence under military law tried before a military tribunal, to the benefit of trial by jury where the maximum punishment for the offence is imprisonment for five years or a more severe punishment;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_g" GUID="FC3979BC-3310-477B-AABB-9995195A9F0B">
+                  <num>(g)</num>
+                  <content><p>not to be found guilty on account of any act or omission unless, at the time of the act or omission, it constituted an offence under Canadian or international law or was criminal according to the general principles of law recognized by the community of nations;</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_h" GUID="6766C8EE-6B2B-465C-AD48-8F216071FCAD">
+                  <num>(h)</num>
+                  <content><p>if finally acquitted of the offence, not to be tried for it again and, if finally found guilty and punished for the offence, not to be tried or punished for it again; and</p></content>
+                </point>
+                <point eId="cmp_eng__sec_11__list_1__point_i" GUID="AF7C9257-F008-4B3B-84CB-BA04BDCEC7E0">
+                  <num>(i)</num>
+                  <content><p>if found guilty of the offence and if the punishment for the offence has been varied between the time of commission and the time of sentencing, to the benefit of the lesser punishment.</p></content>
+                </point>
+              </list>
+            </section>
+            <section eId="cmp_eng__sec_12" GUID="D14DE96D-58C7-4F14-A0FF-7F28AE89300E">
+              <num>12</num>
+              <heading>Treatment or punishment</heading>
+              <content><p>Everyone has the right not to be subjected to any cruel and unusual treatment or punishment.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_13" GUID="D094C481-CCEE-4EC0-85EA-8C42139EB8A1">
+              <num>13</num>
+              <heading>Self-crimination</heading>
+              <content><p>A witness who testifies in any proceedings has the right not to have any incriminating evidence so given used to incriminate that witness in any other proceedings, except in a prosecution for perjury or for the giving of contradictory evidence.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_14" GUID="39A65891-D482-41E7-9A35-9EE02108E815">
+              <num>14</num>
+              <heading>Interpreter</heading>
+              <content><p>A party or witness in any proceedings who does not understand or speak the language in which the proceedings are conducted or who is deaf has the right to the assistance of an interpreter.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_6" GUID="F568C111-31F4-4038-B8C0-089958065718">
+            <heading>Equality Rights</heading>
+            <section eId="cmp_eng__sec_15" GUID="27C3B73C-E83C-4E12-94EE-9C959DEEAFF7">
+              <num>15</num>
+              <subsection eId="cmp_eng__sec_15__subsec_1" GUID="EEC29DDD-3391-4FB4-B846-61D6EB50BFC5">
+                <num>(1)</num>
+                <heading>Equality before and under law and equal protection and benefit of law</heading>
+                <content><p>Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_15__subsec_2" GUID="03BCFD30-3758-4C02-8BBE-0EC30CD58A80">
+                <num>(2)</num>
+                <heading>Affirmative action programs</heading>
+                <content><p>Subsection <ref href="#cmp_eng__sec_15__subsec_1">(1)</ref> does not preclude any law, program or activity that has as its object the amelioration of conditions of disadvantaged individuals or groups including those that are disadvantaged because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_7" GUID="7BC88BA9-850A-4CA4-B375-20AE58EDE642">
+            <heading>Official Languages of Canada</heading>
+            <section eId="cmp_eng__sec_16" GUID="E9291D95-316B-4EA2-9F3C-871A3DC1152D">
+              <num>16</num>
+              <subsection eId="cmp_eng__sec_16__subsec_1" GUID="336E4FF0-0990-4D94-AB6C-6F2235A935F7">
+                <num>(1)</num>
+                <heading>Official languages of Canada</heading>
+                <content><p>English and French are the official languages of Canada and have equality of status and equal rights and privileges as to their use in all institutions of the Parliament and government of Canada.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_16__subsec_2" GUID="74BE836B-96A5-4548-A0EE-B2E10B2CC905">
+                <num>(2)</num>
+                <heading>Official languages of New Brunswick</heading>
+                <content><p>English and French are the official languages of New Brunswick and have equality of status and equal rights and privileges as to their use in all institutions of the legislature and government of New Brunswick.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_16__subsec_3" GUID="EE63DBCB-1096-4E34-8512-0D66ABA2C35E">
+                <num>(3)</num>
+                <heading>Advancement of status and use</heading>
+                <content><p>Nothing in this Charter limits the authority of Parliament or a legislature to advance the equality of status or use of English and French.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_16-1" GUID="D71D02CD-863B-4EF1-AC7F-E5335BAFFA52">
+              <num>16.1</num>
+              <subsection eId="cmp_eng__sec_16-1__subsec_1" GUID="587565AA-EE57-45D0-9EAB-F124FD51D7D9">
+                <num>(1)</num>
+                <heading>English and French linguistic communities in New Brunswick</heading>
+                <content><p>The English linguistic community and the French linguistic community in New Brunswick have equality of status and equal rights and privileges, including the right to distinct educational institutions and such distinct cultural institutions as are necessary for the preservation and promotion of those communities.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_16-1__subsec_2" GUID="705457FA-C200-40DC-8703-2EDC4A1C151F">
+                <num>(2)</num>
+                <heading>Role of the legislature and government of New Brunswick</heading>
+                <content><p>The role of the legislature and government of New Brunswick to preserve and promote the status, rights and privileges referred to in subsection <ref href="#cmp_eng__sec_16-1__subsec_1">(1)</ref> is affirmed.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_17" GUID="8FE7E505-CE7C-406D-BF3F-09A5CC25093C">
+              <num>17</num>
+              <subsection eId="cmp_eng__sec_17__subsec_1" GUID="E362AD33-2D18-4A00-B1D7-649AD45E46D1">
+                <num>(1)</num>
+                <heading>Proceedings of Parliament</heading>
+                <content><p>Everyone has the right to use English or French in any debates and other proceedings of Parliament.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_17__subsec_2" GUID="CFF342BF-F43A-4806-B623-7B84C69BEC99">
+                <num>(2)</num>
+                <heading>Proceedings of New Brunswick legislature</heading>
+                <content><p>Everyone has the right to use English or French in any debates and other proceedings of the legislature of New Brunswick.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_18" GUID="7A6F4DB3-84D0-4E6B-B70C-58F41FB4765E">
+              <num>18</num>
+              <subsection eId="cmp_eng__sec_18__subsec_1" GUID="90F12044-4BA2-43DF-A2AE-6F57C8C6E401">
+                <num>(1)</num>
+                <heading>Parliamentary statutes and records</heading>
+                <content><p>The statutes, records and journals of Parliament shall be printed and published in English and French and both language versions are equally authoritative.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_18__subsec_2" GUID="27DDF2D0-73BF-4387-B208-1131194DD39F">
+                <num>(2)</num>
+                <heading>New Brunswick statutes and records</heading>
+                <content><p>The statutes, records and journals of the legislature of New Brunswick shall be printed and published in English and French and both language versions are equally authoritative.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_19" GUID="E08B8D75-128B-4016-91A9-E8068968250B">
+              <num>19</num>
+              <subsection eId="cmp_eng__sec_19__subsec_1" GUID="5EF09FA8-B7DF-407C-8D4F-D2B0E8BC170C">
+                <num>(1)</num>
+                <heading>Proceedings in courts established by Parliament</heading>
+                <content><p>Either English or French may be used by any person in, or in any pleading in or process issuing from, any court established by Parliament.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_19__subsec_2" GUID="91B70A6D-CE2C-4826-8B10-6359F7A86DFB">
+                <num>(2)</num>
+                <heading>Proceedings in New Brunswick courts</heading>
+                <content><p>Either English or French may be used by any person in, or in any pleading in or process issuing from, any court of New Brunswick.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_20" GUID="FF51ED6B-7996-480C-965B-7135EE5312D7">
+              <num>20</num>
+              <subsection eId="cmp_eng__sec_20__subsec_1" GUID="7C6019B4-0C55-43E5-A943-1EA177FF543F">
+                <num>(1)</num>
+                <heading>Communications by public with federal institutions</heading>
+                <intro><p>Any member of the public in Canada has the right to communicate with, and to receive available services from, any head or central office of an institution of the Parliament or government of Canada in English or French, and has the same right with respect to any other office of any such institution where</p></intro>
+                <list eId="cmp_eng__sec_20__subsec_1__list_1" GUID="ACB4FEA7-7DAF-45E9-BCE6-3B78D0C35D9A">
+                  <point eId="cmp_eng__sec_20__subsec_1__list_1__point_a" GUID="BBAB1899-C842-462F-BFCF-5874B7791D12">
+                    <num>(a)</num>
+                    <content><p>there is a significant demand for communications with and services from that office in such language; or</p></content>
+                  </point>
+                  <point eId="cmp_eng__sec_20__subsec_1__list_1__point_b" GUID="BAD0773E-3EF4-4FA9-BD03-E2C56F05F85A">
+                    <num>(b)</num>
+                    <content><p>due to the nature of the office, it is reasonable that communications with and services from that office be available in both English and French.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_eng__sec_20__subsec_2" GUID="C0832F8C-9D83-4A00-905E-A2B42BE0EA33">
+                <num>(2)</num>
+                <heading>Communications by public with New Brunswick institutions</heading>
+                <content><p>Any member of the public in New Brunswick has the right to communicate with, and to receive available services from, any office of an institution of the legislature or government of New Brunswick in English or French.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_21" GUID="51433C20-B52B-4878-BB07-250B2584A10F">
+              <num>21</num>
+              <heading>Continuation of existing constitutional provisions</heading>
+              <content><p>Nothing in sections <ref href="#cmp_eng__sec_16">16</ref> to <ref href="#cmp_eng__sec_20">20</ref> abrogates or derogates from any right, privilege or obligation with respect to the English and French languages, or either of them, that exists or is continued by virtue of any other provision of the Constitution of Canada.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_22" GUID="10354512-A023-4E86-950F-D84C93255A15">
+              <num>22</num>
+              <heading>Rights and privileges preserved</heading>
+              <content><p>Nothing in sections <ref href="#cmp_eng__sec_16">16</ref> to <ref href="#cmp_eng__sec_20">20</ref> abrogates or derogates from any legal or customary right or privilege acquired or enjoyed either before or after the coming into force of this Charter with respect to any language that is not English or French.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_8" GUID="07A62C04-7E66-49AF-AD01-5D6CB49FA4A6">
+            <heading>Minority Language Educational Rights</heading>
+            <section eId="cmp_eng__sec_23" GUID="D0B904E5-AC2F-4170-8B45-76C72E22B60A">
+              <num>23</num>
+              <subsection eId="cmp_eng__sec_23__subsec_1" GUID="AF6E70E9-0C74-4B89-AF2A-5759035EBE99">
+                <num>(1)</num>
+                <heading>Language of instruction</heading>
+                <intro><p>Citizens of Canada</p></intro>
+                <list eId="cmp_eng__sec_23__subsec_1__list_1" GUID="25977914-488D-4C81-8226-2EA2F17CE824">
+                  <point eId="cmp_eng__sec_23__subsec_1__list_1__point_a" GUID="3F9CF50E-9BD2-4308-B051-E8FC050AC4C6">
+                    <num>(a)</num>
+                    <content><p>whose first language learned and still understood is that of the English or French linguistic minority population of the province in which they reside, or</p></content>
+                  </point>
+                  <point eId="cmp_eng__sec_23__subsec_1__list_1__point_b" GUID="DF61F200-B9F1-45E7-B2A5-8806F886654D">
+                    <num>(b)</num>
+                    <content><p>who have received their primary school instruction in Canada in English or French and reside in a province where the language in which they received that instruction is the language of the English or French linguistic minority population of the province,</p></content>
+                  </point>
+                </list>
+                <wrapUp><p>have the right to have their children receive primary and secondary school instruction in that language in that province.</p></wrapUp>
+              </subsection>
+              <subsection eId="cmp_eng__sec_23__subsec_2" GUID="D4D2FD36-7B53-43AD-8A27-D6E50A0B2A7F">
+                <num>(2)</num>
+                <heading>Continuity of language instruction</heading>
+                <content><p>Citizens of Canada of whom any child has received or is receiving primary or secondary school instruction in English or French in Canada, have the right to have all their children receive primary and secondary school instruction in the same language.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_23__subsec_3" GUID="709B413A-D0BB-4594-A9B9-CE962803F2AE">
+                <num>(3)</num>
+                <heading>Application where numbers warrant</heading>
+                <intro><p>The right of citizens of Canada under subsections <ref href="#cmp_eng__sec_23__subsec_1">(1)</ref> and <ref href="#cmp_eng__sec_23__subsec_2">(2)</ref> to have their children receive primary and secondary school instruction in the language of the English or French linguistic minority population of a province</p></intro>
+                <list eId="cmp_eng__sec_23__subsec_3__list_1" GUID="59267FFA-DAA7-4E9D-9F57-E67987E60276">
+                  <point eId="cmp_eng__sec_23__subsec_3__list_1__point_a" GUID="2DD08189-00C7-435D-AC87-88072C076041">
+                    <num>(a)</num>
+                    <content><p>applies wherever in the province the number of children of citizens who have such a right is sufficient to warrant the provision to them out of public funds of minority language instruction; and</p></content>
+                  </point>
+                  <point eId="cmp_eng__sec_23__subsec_3__list_1__point_b" GUID="CC5A8067-4424-4579-9F88-5A621855F955">
+                    <num>(b)</num>
+                    <content><p>includes, where the number of those children so warrants, the right to have them receive that instruction in minority language educational facilities provided out of public funds.</p></content>
+                  </point>
+                </list>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_9" GUID="E9F2BF2F-FB37-4956-A9EF-AF25A9F3F38D">
+            <heading>Enforcement</heading>
+            <section eId="cmp_eng__sec_24" GUID="08315513-54DE-48F9-A2F3-1CA88E2DBD6F">
+              <num>24</num>
+              <subsection eId="cmp_eng__sec_24__subsec_1" GUID="52CBB6BC-67CD-4DF0-80CA-9D316007AA04">
+                <num>(1)</num>
+                <heading>Enforcement of guaranteed rights and freedoms</heading>
+                <content><p>Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_24__subsec_2" GUID="3F6EA4D9-7E76-445F-8B55-13A1D886D662">
+                <num>(2)</num>
+                <heading>Exclusion of evidence bringing administration of justice into disrepute</heading>
+                <content><p>Where, in proceedings under subsection <ref href="#cmp_eng__sec_24__subsec_1">(1)</ref>, a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_10" GUID="2A8354AD-8B05-402D-9300-72C11F0772AF">
+            <heading>General</heading>
+            <section eId="cmp_eng__sec_25" GUID="BFD83C14-C535-4779-A033-D07B1B6DC2F6">
+              <num>25</num>
+              <heading>Aboriginal rights and freedoms not affected by Charter</heading>
+              <intro><p>The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including</p></intro>
+              <list eId="cmp_eng__sec_25__list_1" GUID="5777FE61-838A-4CD4-9562-CD8A0FAE8C8B">
+                <point eId="cmp_eng__sec_25__list_1__point_a" GUID="0EDA384E-CCC0-483F-A861-F60A9FD17DC1">
+                  <num>(a)</num>
+                  <content><p>any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and</p></content>
+                </point>
+                <point eId="cmp_eng__sec_25__list_1__point_b" GUID="2BD6019D-E48D-47C8-986C-8403A1352474">
+                  <num>(b)</num>
+                  <content><p>any rights or freedoms that now exist by way of land claims agreements or may be so acquired.</p></content>
+                </point>
+              </list>
+            </section>
+            <section eId="cmp_eng__sec_26" GUID="05B0D6CE-075C-4B64-B1CB-3E4337CC1832">
+              <num>26</num>
+              <heading>Other rights and freedoms not affected by Charter</heading>
+              <content><p>The guarantee in this Charter of certain rights and freedoms shall not be construed as denying the existence of any other rights or freedoms that exist in Canada.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_27" GUID="8CF462D0-53B2-41D9-A8BA-323094B4DF3F">
+              <num>27</num>
+              <heading>Multicultural heritage</heading>
+              <content><p>This Charter shall be interpreted in a manner consistent with the preservation and enhancement of the multicultural heritage of Canadians.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_28" GUID="5B5934EA-BF6A-4FE6-B3CD-F7B328B435E7">
+              <num>28</num>
+              <heading>Rights guaranteed equally to both sexes</heading>
+              <content><p>Notwithstanding anything in this Charter, the rights and freedoms referred to in it are guaranteed equally to male and female persons.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_29" GUID="22F30243-F031-4391-8074-F2F065A3FE24">
+              <num>29</num>
+              <heading>Rights respecting certain schools preserved</heading>
+              <content><p>Nothing in this Charter abrogates or derogates from any rights or privileges guaranteed by or under the Constitution of Canada in respect of denominational, separate or dissentient schools.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_30" GUID="BA91DEC8-3280-410F-ADDF-B549D0B4591A">
+              <num>30</num>
+              <heading>Application to territories and territorial authorities</heading>
+              <content><p>A reference in this Charter to a province or to the legislative assembly or legislature of a province shall be deemed to include a reference to the Yukon Territory and the Northwest Territories, or to the appropriate legislative authority thereof, as the case may be.</p></content>
+            </section>
+            <section eId="cmp_eng__sec_31" GUID="5BE30CA1-8744-4493-B531-81B5C881B440">
+              <num>31</num>
+              <heading>Legislative powers not extended</heading>
+              <content><p>Nothing in this Charter extends the legislative powers of any body or authority.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_11" GUID="9C635A8E-6FF2-48AF-A899-8B1CC8FB6E30">
+            <heading>Application of Charter</heading>
+            <section eId="cmp_eng__sec_32" GUID="723EF03F-1035-4E8F-BD5B-54466D31D974">
+              <num>32</num>
+              <subsection eId="cmp_eng__sec_32__subsec_1" GUID="18CD4C55-FCD8-4BCF-A5BC-4BE3F317D851">
+                <num>(1)</num>
+                <heading>Application of Charter</heading>
+                <intro><p>This Charter applies</p></intro>
+                <list eId="cmp_eng__sec_32__subsec_1__list_1" GUID="5C22815A-85AA-4407-ADE7-EE8A805F1F6D">
+                  <point eId="cmp_eng__sec_32__subsec_1__list_1__point_a" GUID="18C2AE8A-628C-47AC-AE1D-1745D9B66B21">
+                    <num>(a)</num>
+                    <content><p>to the Parliament and government of Canada in respect of all matters within the authority of Parliament including all matters relating to the Yukon Territory and Northwest Territories; and</p></content>
+                  </point>
+                  <point eId="cmp_eng__sec_32__subsec_1__list_1__point_b" GUID="ED75A08B-885C-4259-BAD3-24ECEC5F4DF4">
+                    <num>(b)</num>
+                    <content><p>to the legislature and government of each province in respect of all matters within the authority of the legislature of each province.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_eng__sec_32__subsec_2" GUID="7C33ED8D-F211-4FD7-A155-70651E8678C9">
+                <num>(2)</num>
+                <heading>Exception</heading>
+                <content><p>Notwithstanding subsection <ref href="#cmp_eng__sec_32__subsec_1">(1)</ref>, section <ref href="#cmp_eng__sec_15">15</ref> shall not have effect until three years after this section comes into force.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_eng__sec_33" GUID="A0A6BD2D-EB8E-4389-9AA5-168613E2B04B">
+              <num>33</num>
+              <subsection eId="cmp_eng__sec_33__subsec_1" GUID="88BD4FB3-8250-4522-8768-252C0F9501D1">
+                <num>(1)</num>
+                <heading>Exception where express declaration</heading>
+                <content><p>Parliament or the legislature of a province may expressly declare in an Act of Parliament or of the legislature, as the case may be, that the Act or a provision thereof shall operate notwithstanding a provision included in section <ref href="#cmp_eng__sec_2">2</ref> or sections <ref href="#cmp_eng__sec_7">7</ref> to <ref href="#cmp_eng__sec_15">15</ref> of this Charter.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_33__subsec_2" GUID="4C74DDCE-6F25-4DF9-AD5B-088E5E531053">
+                <num>(2)</num>
+                <heading>Operation of exception</heading>
+                <content><p>An Act or a provision of an Act in respect of which a declaration made under this section is in effect shall have such operation as it would have but for the provision of this Charter referred to in the declaration.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_33__subsec_3" GUID="87B29280-1ED2-4C9D-982E-22631C9540B5">
+                <num>(3)</num>
+                <heading>Five year limitation</heading>
+                <content><p>A declaration made under subsection <ref href="#cmp_eng__sec_33__subsec_1">(1)</ref> shall cease to have effect five years after it comes into force or on such earlier date as may be specified in the declaration.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_33__subsec_4" GUID="18B697D4-0321-4BFD-8A13-AEA9F3FF1F86">
+                <num>(4)</num>
+                <heading>Re-enactment</heading>
+                <content><p>Parliament or the legislature of a province may re-enact a declaration made under subsection <ref href="#cmp_eng__sec_33__subsec_1">(1)</ref>.</p></content>
+              </subsection>
+              <subsection eId="cmp_eng__sec_33__subsec_5" GUID="35DFBE46-9BB0-45DD-B868-69A00EA94E61">
+                <num>(5)</num>
+                <heading>Five year limitation</heading>
+                <content><p>Subsection <ref href="#cmp_eng__sec_33__subsec_3">(3)</ref> applies in respect of a re-enactment made under subsection <ref href="#cmp_eng__sec_33__subsec_4">(4)</ref>.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_eng__part_I__dvs_12" GUID="CE9B595F-561D-40C3-8035-E0E79FB294DF">
+            <heading>Citation</heading>
+            <section eId="cmp_eng__sec_34" GUID="758E2714-5FE5-47DC-9D21-B1630F579F70">
+              <num>34</num>
+              <heading>Citation</heading>
+              <content><p>This Part may be cited as the <i>Canadian Charter of Rights and Freedoms</i>.</p></content>
+            </section>
+          </division>
+        </part>
+        </body>
+      </act>
+      </component>
+      <component eId="cmp_fra" GUID="3017D4CA-FD1F-44EF-A3C5-96F7849A82A8">
+      <act name="constitution" contains="singleVersion">
+        <meta>
+          <identification source="#gv_fra">
+            <FRBRWork>
+              <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/!main"/>
+              <FRBRuri value="/akn/ca/act/1982/constitution-act-1982"/>
+              <FRBRdate date="1982-04-17" name="proclamation"/>
+              <FRBRauthor href="#parl_fra" as="#author_fra"/>
+              <FRBRcountry value="ca"/>
+              <FRBRsubtype value="constitution"/>
+              <FRBRname value="constitution"/>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/fra@1993-03-12/!main"/>
+              <FRBRuri value="/akn/ca/act/1982/constitution-act-1982/fra@1993-03-12"/>
+              <FRBRdate date="1993-03-12" name="amendment"/>
+              <FRBRauthor href="#parl_fra" as="#author_fra"/>
+              <FRBRauthoritative value="true"/>
+              <FRBRlanguage language="fra"/>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/ca/act/1982/constitution-act-1982/fra@1993-03-12/!main.xml"/>
+              <FRBRuri value="/akn/ca/act/1982/constitution-act-1982/fra@1993-03-12.xml"/>
+              <FRBRdate date="2026-11-03" name="markup"/>
+              <FRBRauthor href="#gv_fra" as="#editor_fra"/>
+              <FRBRformat value="application/akn+xml"/>
+            </FRBRManifestation>
+          </identification>
+          <references source="#gv_fra">
+            <TLCOrganization eId="parl_fra" GUID="2C2BC034-172F-4477-895D-7190A2CC2CF6" href="/ontology/organization/ca.parliament" showAs="Parliament of Canada"/>
+            <TLCPerson eId="gv_fra" GUID="771A47FF-B402-403D-A749-404E316F3784" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_fra" GUID="28BA03C7-7597-4C89-BD9F-7EF96D14B501" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_fra" GUID="4DA89F23-0029-4011-A3E6-7EC8C4EEAE2C" href="/ontology/role/editor" showAs="Editor"/>
+          </references>
+        </meta>
+        <preface xml:lang="fr">
+          <p class="title"><docTitle>Charte canadienne des droits et libertés</docTitle></p>
+          <p class="source">Partie I de la Loi constitutionnelle de 1982, annexe B de la Loi de 1982 sur le Canada (R-U), 1982, c 11</p>
+          <p class="status">Texte en vigueur, avec les modifications de 1983 et de 1993. Version non officielle. Source : ministère de la Justice du Canada.</p>
+        </preface>
+        <preamble xml:lang="fr">
+          <recitals>
+            <recital eId="cmp_fra__rec_1" GUID="06FF929E-3094-49DF-B9A2-B5F0FAA35C04"><p>Attendu que le Canada est fondé sur des principes qui reconnaissent la suprématie de Dieu et la primauté du droit :</p></recital>
+          </recitals>
+        </preamble>
+        <body xml:lang="fr">
+        <part eId="cmp_fra__part_I" GUID="36F634A8-DD53-43B7-9936-F6B9EDDB3DD4">
+          <num>PARTIE I</num>
+          <heading>Charte canadienne des droits et libertés</heading>
+          <division eId="cmp_fra__part_I__dvs_1" GUID="41B2BF0F-2F7B-48F4-ADA1-6C62F3BDD78A">
+            <heading>Garantie des droits et libertés</heading>
+            <section eId="cmp_fra__sec_1" GUID="0B64ED07-52EE-41B7-82BA-FCFDF10C2B85">
+              <num>1</num>
+              <heading>Droits et libertés au Canada</heading>
+              <content><p>La <i>Charte canadienne des droits et libertés</i> garantit les droits et libertés qui y sont énoncés. Ils ne peuvent être restreints que par une règle de droit, dans des limites qui soient raisonnables et dont la justification puisse se démontrer dans le cadre d’une société libre et démocratique.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_2" GUID="E4D3F138-9DB7-4E6A-A214-44D96D710E7E">
+            <heading>Libertés fondamentales</heading>
+            <section eId="cmp_fra__sec_2" GUID="E35929EC-479D-4813-A154-F56FA598F994">
+              <num>2</num>
+              <heading>Libertés fondamentales</heading>
+              <intro><p>Chacun a les libertés fondamentales suivantes :</p></intro>
+              <list eId="cmp_fra__sec_2__list_1" GUID="9A7F921A-0FE2-48D1-871F-1DFC9024C4C1">
+                <point eId="cmp_fra__sec_2__list_1__point_a" GUID="B516D8F1-A68F-464B-AF09-2D5A59E73C24">
+                  <num>a)</num>
+                  <content><p>liberté de conscience et de religion;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_2__list_1__point_b" GUID="D4E0B2C7-7995-41FD-AC67-43CA4C2DF678">
+                  <num>b)</num>
+                  <content><p>liberté de pensée, de croyance, d’opinion et d’expression, y compris la liberté de la presse et des autres moyens de communication;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_2__list_1__point_c" GUID="66661E96-2E85-4E91-97B7-FCA46ABAD1D7">
+                  <num>c)</num>
+                  <content><p>liberté de réunion pacifique;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_2__list_1__point_d" GUID="DB3D52FC-05B1-4BCD-944F-6419A0F1E9EA">
+                  <num>d)</num>
+                  <content><p>liberté d’association.</p></content>
+                </point>
+              </list>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_3" GUID="56182F41-2A70-4112-8DAB-FE7BE9E45726">
+            <heading>Droits démocratiques</heading>
+            <section eId="cmp_fra__sec_3" GUID="A7644F12-F57E-4429-AEE6-59438637ADD9">
+              <num>3</num>
+              <heading>Droits démocratiques des citoyens</heading>
+              <content><p>Tout citoyen canadien a le droit de vote et est éligible aux élections législatives fédérales ou provinciales.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_4" GUID="30634794-96D1-4C14-9581-2E4E316DA6BD">
+              <num>4</num>
+              <subsection eId="cmp_fra__sec_4__subsec_1" GUID="67CD4587-356F-4424-880E-1AD8EA651BAF">
+                <num>(1)</num>
+                <heading>Mandat maximal des assemblées</heading>
+                <content><p>Le mandat maximal de la Chambre des communes et des assemblées législatives est de cinq ans à compter de la date fixée pour le retour des brefs relatifs aux élections générales correspondantes.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_4__subsec_2" GUID="5C517E27-6992-4E6A-A576-1C3D1CBEE937">
+                <num>(2)</num>
+                <heading>Prolongations spéciales</heading>
+                <content><p>Le mandat de la Chambre des communes ou celui d’une assemblée législative peut être prolongé respectivement par le Parlement ou par la législature en question au-delà de cinq ans en cas de guerre, d’invasion ou d’insurrection, réelles ou appréhendées, pourvu que cette prolongation ne fasse pas l’objet d’une opposition exprimée par les voix de plus du tiers des députés de la Chambre des communes ou de l’assemblée législative.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_5" GUID="670962E2-01A0-408B-ADEA-849083E2371F">
+              <num>5</num>
+              <heading>Séance annuelle</heading>
+              <content><p>Le Parlement et les législatures tiennent une séance au moins une fois tous les douze mois.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_4" GUID="89A51199-5A15-47C3-9DF9-B74FC997FEBF">
+            <heading>Liberté de circulation et d’établissement</heading>
+            <section eId="cmp_fra__sec_6" GUID="4D869D77-7501-4013-9DCB-880B6E7B5E3E">
+              <num>6</num>
+              <subsection eId="cmp_fra__sec_6__subsec_1" GUID="F96EEE69-FDC6-4133-BC99-370FCA28E67F">
+                <num>(1)</num>
+                <heading>Liberté de circulation</heading>
+                <content><p>Tout citoyen canadien a le droit de demeurer au Canada, d’y entrer ou d’en sortir.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_6__subsec_2" GUID="BCDDE18F-4057-4763-8743-EC13B08DDDD8">
+                <num>(2)</num>
+                <heading>Liberté d’établissement</heading>
+                <intro><p>Tout citoyen canadien et toute personne ayant le statut de résident permanent au Canada ont le droit :</p></intro>
+                <list eId="cmp_fra__sec_6__subsec_2__list_1" GUID="6C524863-1DC4-4D2F-95F7-32A0EA0AAFCA">
+                  <point eId="cmp_fra__sec_6__subsec_2__list_1__point_a" GUID="749AF35C-75EB-44CB-83BE-43CB950A7532">
+                    <num>a)</num>
+                    <content><p>de se déplacer dans tout le pays et d’établir leur résidence dans toute province;</p></content>
+                  </point>
+                  <point eId="cmp_fra__sec_6__subsec_2__list_1__point_b" GUID="8BADDE48-54DF-4090-9C7A-922DD291FC68">
+                    <num>b)</num>
+                    <content><p>de gagner leur vie dans toute province.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_fra__sec_6__subsec_3" GUID="4F8A5FB3-9CF2-4F12-8467-D6DB94AAE336">
+                <num>(3)</num>
+                <heading>Restriction</heading>
+                <intro><p>Les droits mentionnés au paragraphe <ref href="#cmp_fra__sec_6__subsec_2">(2)</ref> sont subordonnés :</p></intro>
+                <list eId="cmp_fra__sec_6__subsec_3__list_1" GUID="1F4A7275-8467-46FB-8F28-C2372504154D">
+                  <point eId="cmp_fra__sec_6__subsec_3__list_1__point_a" GUID="4952D248-4751-4A1D-8218-0A3F56246557">
+                    <num>a)</num>
+                    <content><p>aux lois et usages d’application générale en vigueur dans une province donnée, s’ils n’établissent entre les personnes aucune distinction fondée principalement sur la province de résidence antérieure ou actuelle;</p></content>
+                  </point>
+                  <point eId="cmp_fra__sec_6__subsec_3__list_1__point_b" GUID="DA228B47-E7EB-43AF-AF0C-03F0D1CFFB21">
+                    <num>b)</num>
+                    <content><p>aux lois prévoyant de justes conditions de résidence en vue de l’obtention des services sociaux publics.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_fra__sec_6__subsec_4" GUID="131D42AE-DB0D-48A4-82D5-F06AFD6F32B4">
+                <num>(4)</num>
+                <heading>Programmes de promotion sociale</heading>
+                <content><p>Les paragraphes <ref href="#cmp_fra__sec_6__subsec_2">(2)</ref> et <ref href="#cmp_fra__sec_6__subsec_3">(3)</ref> n’ont pas pour objet d’interdire les lois, programmes ou activités destinés à améliorer, dans une province, la situation d’individus défavorisés socialement ou économiquement, si le taux d’emploi dans la province est inférieur à la moyenne nationale.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_5" GUID="A70D7A4B-0726-486D-B7B7-2D4AB70F7E37">
+            <heading>Garanties juridiques</heading>
+            <section eId="cmp_fra__sec_7" GUID="BE1CAC29-89C8-4C32-A3F6-DC8F42AEEC60">
+              <num>7</num>
+              <heading>Vie, liberté et sécurité</heading>
+              <content><p>Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_8" GUID="E1B3E830-DEA6-442F-BAD3-3C744D574818">
+              <num>8</num>
+              <heading>Fouilles, perquisitions ou saisies</heading>
+              <content><p>Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_9" GUID="7B6F311A-A9F1-436A-AA56-EB6DDD08E878">
+              <num>9</num>
+              <heading>Détention ou emprisonnement</heading>
+              <content><p>Chacun a droit à la protection contre la détention ou l’emprisonnement arbitraires.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_10" GUID="83514493-7E1B-4484-917F-B3F8C97B3292">
+              <num>10</num>
+              <heading>Arrestation ou détention</heading>
+              <intro><p>Chacun a le droit, en cas d’arrestation ou de détention :</p></intro>
+              <list eId="cmp_fra__sec_10__list_1" GUID="36FB7C6B-4111-49D0-AE9C-CA375A81DECE">
+                <point eId="cmp_fra__sec_10__list_1__point_a" GUID="D51621F7-752F-4D9D-BA50-33138797856D">
+                  <num>a)</num>
+                  <content><p>d’être informé dans les plus brefs délais des motifs de son arrestation ou de sa détention;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_10__list_1__point_b" GUID="2C89FBF2-4DAA-4E1A-9E03-339F11F4791D">
+                  <num>b)</num>
+                  <content><p>d’avoir recours sans délai à l’assistance d’un avocat et d’être informé de ce droit;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_10__list_1__point_c" GUID="B8DEEC19-C929-4FC7-B526-A1832A9A8B79">
+                  <num>c)</num>
+                  <content><p>de faire contrôler, par <i>habeas corpus</i>, la légalité de sa détention et d’obtenir, le cas échéant, sa libération.</p></content>
+                </point>
+              </list>
+            </section>
+            <section eId="cmp_fra__sec_11" GUID="7A63DA4E-33AE-4805-893C-333AFEE198DF">
+              <num>11</num>
+              <heading>Affaires criminelles et pénales</heading>
+              <intro><p>Tout inculpé a le droit :</p></intro>
+              <list eId="cmp_fra__sec_11__list_1" GUID="64AFEE48-17B0-4257-9E50-06415675CF56">
+                <point eId="cmp_fra__sec_11__list_1__point_a" GUID="32E6A9EF-4A57-4AF5-8C18-42E3A381428B">
+                  <num>a)</num>
+                  <content><p>d’être informé sans délai anormal de l’infraction précise qu’on lui reproche;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_b" GUID="916C9064-A1A7-4FCC-886C-9247A61A5A3A">
+                  <num>b)</num>
+                  <content><p>d’être jugé dans un délai raisonnable;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_c" GUID="D32E75E8-4080-4431-8AA1-60A3C858F734">
+                  <num>c)</num>
+                  <content><p>de ne pas être contraint de témoigner contre lui-même dans toute poursuite intentée contre lui pour l’infraction qu’on lui reproche;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_d" GUID="789C4F5A-324E-4FBC-8DA2-8B3F0CC978CA">
+                  <num>d)</num>
+                  <content><p>d’être présumé innocent tant qu’il n’est pas déclaré coupable, conformément à la loi, par un tribunal indépendant et impartial à l’issue d’un procès public et équitable;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_e" GUID="0FCCD6E1-61A0-4956-8984-34E397DF0C7C">
+                  <num>e)</num>
+                  <content><p>de ne pas être privé sans juste cause d’une mise en liberté assortie d’un cautionnement raisonnable;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_f" GUID="0B347014-F8F4-4865-B0E6-5A70D7207B3F">
+                  <num>f)</num>
+                  <content><p>sauf s’il s’agit d’une infraction relevant de la justice militaire, de bénéficier d’un procès avec jury lorsque la peine maximale prévue pour l’infraction dont il est accusé est un emprisonnement de cinq ans ou une peine plus grave;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_g" GUID="456C247D-3392-44E2-BBB6-2AF2DF6F44FA">
+                  <num>g)</num>
+                  <content><p>de ne pas être déclaré coupable en raison d’une action ou d’une omission qui, au moment où elle est survenue, ne constituait pas une infraction d’après le droit interne du Canada ou le droit international et n’avait pas de caractère criminel d’après les principes généraux de droit reconnus par l’ensemble des nations;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_h" GUID="84D0E739-C7E8-45F8-921C-8EB1FAD917EC">
+                  <num>h)</num>
+                  <content><p>d’une part de ne pas être jugé de nouveau pour une infraction dont il a été définitivement acquitté, d’autre part de ne pas être jugé ni puni de nouveau pour une infraction dont il a été définitivement déclaré coupable et puni;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_11__list_1__point_i" GUID="D8152E6E-8D47-4E82-892C-4656A56E95C6">
+                  <num>i)</num>
+                  <content><p>de bénéficier de la peine la moins sévère, lorsque la peine qui sanctionne l’infraction dont il est déclaré coupable est modifiée entre le moment de la perpétration de l’infraction et celui de la sentence.</p></content>
+                </point>
+              </list>
+            </section>
+            <section eId="cmp_fra__sec_12" GUID="17D763A8-7053-4C36-82F9-E38460C89313">
+              <num>12</num>
+              <heading>Cruauté</heading>
+              <content><p>Chacun a droit à la protection contre tous traitements ou peines cruels et inusités.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_13" GUID="B313C9AA-5D6A-46C2-8891-777707EAFEF8">
+              <num>13</num>
+              <heading>Témoignage incriminant</heading>
+              <content><p>Chacun a droit à ce qu’aucun témoignage incriminant qu’il donne ne soit utilisé pour l’incriminer dans d’autres procédures, sauf lors de poursuites pour parjure ou pour témoignages contradictoires.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_14" GUID="9B287D59-00C8-467D-B897-53BC85A4AAF4">
+              <num>14</num>
+              <heading>Interprète</heading>
+              <content><p>La partie ou le témoin qui ne peuvent suivre les procédures, soit parce qu’ils ne comprennent pas ou ne parlent pas la langue employée, soit parce qu’ils sont atteints de surdité, ont droit à l’assistance d’un interprète.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_6" GUID="50BFD928-C409-4CF5-9218-64F991023C51">
+            <heading>Droits à l’égalité</heading>
+            <section eId="cmp_fra__sec_15" GUID="55A42E4D-109A-43D3-BE74-EF8ED32096F8">
+              <num>15</num>
+              <subsection eId="cmp_fra__sec_15__subsec_1" GUID="B67A479B-2E3A-4916-A53E-91ECF2E2B9CB">
+                <num>(1)</num>
+                <heading>Égalité devant la loi, égalité de bénéfice et protection égale de la loi</heading>
+                <content><p>La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_15__subsec_2" GUID="1BE3E541-566F-4C55-8F83-1B0381C0B147">
+                <num>(2)</num>
+                <heading>Programmes de promotion sociale</heading>
+                <content><p>Le paragraphe <ref href="#cmp_fra__sec_15__subsec_1">(1)</ref> n’a pas pour effet d’interdire les lois, programmes ou activités destinés à améliorer la situation d’individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur religion, de leur sexe, de leur âge ou de leurs déficiences mentales ou physiques.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_7" GUID="1B742B9C-8741-4A34-BC75-C15F5D12D8BE">
+            <heading>Langues officielles du Canada</heading>
+            <section eId="cmp_fra__sec_16" GUID="C52FF08D-8914-4741-A491-1C64AA6E81B0">
+              <num>16</num>
+              <subsection eId="cmp_fra__sec_16__subsec_1" GUID="F6FECA29-24AB-4AA5-A5BD-D5F307521726">
+                <num>(1)</num>
+                <heading>Langues officielles du Canada</heading>
+                <content><p>Le français et l’anglais sont les langues officielles du Canada; ils ont un statut et des droits et privilèges égaux quant à leur usage dans les institutions du Parlement et du gouvernement du Canada.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_16__subsec_2" GUID="EF3F8920-E3C5-4399-9174-52F7DF0C20DD">
+                <num>(2)</num>
+                <heading>Langues officielles du Nouveau-Brunswick</heading>
+                <content><p>Le français et l’anglais sont les langues officielles du Nouveau-Brunswick; ils ont un statut et des droits et privilèges égaux quant à leur usage dans les institutions de la Législature et du gouvernement du Nouveau-Brunswick.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_16__subsec_3" GUID="2D17A199-2E17-44E6-9A66-F073E92EDFC0">
+                <num>(3)</num>
+                <heading>Progression vers l’égalité</heading>
+                <content><p>La présente charte ne limite pas le pouvoir du Parlement et des législatures de favoriser la progression vers l’égalité de statut ou d’usage du français et de l’anglais.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_16-1" GUID="76F1EA2E-0BD6-4E8A-BDC6-37FDEF5DC8E0">
+              <num>16.1</num>
+              <subsection eId="cmp_fra__sec_16-1__subsec_1" GUID="6BA9A25B-BD4A-4295-BF00-2B23592055FD">
+                <num>(1)</num>
+                <heading>Communautés linguistiques française et anglaise du Nouveau-Brunswick</heading>
+                <content><p>La communauté linguistique française et la communauté linguistique anglaise du Nouveau-Brunswick ont un statut et des droits et privilèges égaux, notamment le droit à des institutions d’enseignement distinctes et aux institutions culturelles distinctes nécessaires à leur protection et à leur promotion.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_16-1__subsec_2" GUID="45444492-7E4C-49DB-8830-372D757DCA3B">
+                <num>(2)</num>
+                <heading>Rôle de la législature et du gouvernement du Nouveau-Brunswick</heading>
+                <content><p>Le rôle de la législature et du gouvernement du Nouveau-Brunswick de protéger et de promouvoir le statut, les droits et les privilèges visés au paragraphe <ref href="#cmp_fra__sec_16-1__subsec_1">(1)</ref> est confirmé.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_17" GUID="FD7A2785-1AE5-4752-B153-4C199B2D6F59">
+              <num>17</num>
+              <subsection eId="cmp_fra__sec_17__subsec_1" GUID="9222811E-CBA6-4BDA-9510-06DA50275B82">
+                <num>(1)</num>
+                <heading>Travaux du Parlement</heading>
+                <content><p>Chacun a le droit d’employer le français ou l’anglais dans les débats et travaux du Parlement.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_17__subsec_2" GUID="A3290145-695B-4F69-98F3-2A099D47E6AB">
+                <num>(2)</num>
+                <heading>Travaux de la Législature du Nouveau-Brunswick</heading>
+                <content><p>Chacun a le droit d’employer le français ou l’anglais dans les débats et travaux de la Législature du Nouveau-Brunswick.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_18" GUID="9F874C5F-4DA5-4388-B0D3-D0F2C8EB90ED">
+              <num>18</num>
+              <subsection eId="cmp_fra__sec_18__subsec_1" GUID="17DAE0E4-4D65-41BC-93BC-F683722E4F0C">
+                <num>(1)</num>
+                <heading>Documents parlementaires</heading>
+                <content><p>Les lois, les archives, les comptes rendus et les procès-verbaux du Parlement sont imprimés et publiés en français et en anglais, les deux versions des lois ayant également force de loi et celles des autres documents ayant même valeur.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_18__subsec_2" GUID="FB722175-D359-4FA5-8AA6-D1F13BDD044D">
+                <num>(2)</num>
+                <heading>Documents de la Législature du Nouveau-Brunswick</heading>
+                <content><p>Les lois, les archives, les comptes rendus et les procès-verbaux de la Législature du Nouveau-Brunswick sont imprimés et publiés en français et en anglais, les deux versions des lois ayant également force de loi et celles des autres documents ayant même valeur.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_19" GUID="C5487653-684E-4627-9A07-FD231AECC7E7">
+              <num>19</num>
+              <subsection eId="cmp_fra__sec_19__subsec_1" GUID="0175DF5A-58F2-4214-88CB-8F6787323F98">
+                <num>(1)</num>
+                <heading>Procédures devant les tribunaux établis par le Parlement</heading>
+                <content><p>Chacun a le droit d’employer le français ou l’anglais dans toutes les affaires dont sont saisis les tribunaux établis par le Parlement et dans tous les actes de procédure qui en découlent.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_19__subsec_2" GUID="6AE6FFD0-9BDB-4938-925B-E490978E1FAA">
+                <num>(2)</num>
+                <heading>Procédures devant les tribunaux du Nouveau-Brunswick</heading>
+                <content><p>Chacun a le droit d’employer le français ou l’anglais dans toutes les affaires dont sont saisis les tribunaux du Nouveau-Brunswick et dans tous les actes de procédure qui en découlent.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_20" GUID="2C5A8ED5-EFFB-441A-B477-A895EA91CD8F">
+              <num>20</num>
+              <subsection eId="cmp_fra__sec_20__subsec_1" GUID="311CB54C-8DB4-488B-B8D1-5B5064DCEEC5">
+                <num>(1)</num>
+                <heading>Communications entre les administrés et les institutions fédérales</heading>
+                <intro><p>Le public a, au Canada, droit à l’emploi du français ou de l’anglais pour communiquer avec le siège ou l’administration centrale des institutions du Parlement ou du gouvernement du Canada ou pour en recevoir les services; il a le même droit à l’égard de tout autre bureau de ces institutions là où, selon le cas :</p></intro>
+                <list eId="cmp_fra__sec_20__subsec_1__list_1" GUID="E8EA2494-2EED-4A50-BFB6-9B1995830241">
+                  <point eId="cmp_fra__sec_20__subsec_1__list_1__point_a" GUID="52F550CE-7742-40BD-A28C-BBCA0FB9C108">
+                    <num>a)</num>
+                    <content><p>l’emploi du français ou de l’anglais fait l’objet d’une demande importante;</p></content>
+                  </point>
+                  <point eId="cmp_fra__sec_20__subsec_1__list_1__point_b" GUID="366C61D6-5272-474C-A0DE-EA0910793BCB">
+                    <num>b)</num>
+                    <content><p>l’emploi du français et de l’anglais se justifie par la vocation du bureau.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_fra__sec_20__subsec_2" GUID="29DBDA87-04A1-495F-A710-B52C9755A1DE">
+                <num>(2)</num>
+                <heading>Communications entre les administrés et les institutions du Nouveau-Brunswick</heading>
+                <content><p>Le public a, au Nouveau-Brunswick, droit à l’emploi du français ou de l’anglais pour communiquer avec tout bureau des institutions de la législature ou du gouvernement ou pour en recevoir les services.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_21" GUID="7C9E98A4-DE1A-4AA8-B9FA-0339E0C0502D">
+              <num>21</num>
+              <heading>Maintien en vigueur de certaines dispositions</heading>
+              <content><p>Les articles <ref href="#cmp_fra__sec_16">16</ref> à <ref href="#cmp_fra__sec_20">20</ref> n’ont pas pour effet, en ce qui a trait à la langue française ou anglaise ou à ces deux langues, de porter atteinte aux droits, privilèges ou obligations qui existent ou sont maintenus aux termes d’une autre disposition de la Constitution du Canada.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_22" GUID="8D9E43FC-3FA2-437E-B23B-360427EA8AC3">
+              <num>22</num>
+              <heading>Droits préservés</heading>
+              <content><p>Les articles <ref href="#cmp_fra__sec_16">16</ref> à <ref href="#cmp_fra__sec_20">20</ref> n’ont pas pour effet de porter atteinte aux droits et privilèges, antérieurs ou postérieurs à l’entrée en vigueur de la présente charte et découlant de la loi ou de la coutume, des langues autres que le français ou l’anglais.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_8" GUID="D2036068-F0EC-42F0-821C-63175EDC2756">
+            <heading>Droits à l’instruction dans la langue de la minorité</heading>
+            <section eId="cmp_fra__sec_23" GUID="6C39C401-2FE2-496F-BD03-5BADA9205A2C">
+              <num>23</num>
+              <subsection eId="cmp_fra__sec_23__subsec_1" GUID="9D7D4C24-1E89-4AE1-BCDB-24C9182ED939">
+                <num>(1)</num>
+                <heading>Langue d’instruction</heading>
+                <intro><p>Les citoyens canadiens :</p></intro>
+                <list eId="cmp_fra__sec_23__subsec_1__list_1" GUID="18BEAAF6-B4DC-42C6-B3E0-C1E5AA7861F1">
+                  <point eId="cmp_fra__sec_23__subsec_1__list_1__point_a" GUID="D21FE78A-E91A-4B5E-8C37-0C0FCAF201C6">
+                    <num>a)</num>
+                    <content><p>dont la première langue apprise et encore comprise est celle de la minorité francophone ou anglophone de la province où ils résident,</p></content>
+                  </point>
+                  <point eId="cmp_fra__sec_23__subsec_1__list_1__point_b" GUID="6341B93F-D538-4B19-995D-5F688ACB5197">
+                    <num>b)</num>
+                    <content><p>qui ont reçu leur instruction, au niveau primaire, en français ou en anglais au Canada et qui résident dans une province où la langue dans laquelle ils ont reçu cette instruction est celle de la minorité francophone ou anglophone de la province,</p></content>
+                  </point>
+                </list>
+                <wrapUp><p>ont, dans l’un ou l’autre cas, le droit d’y faire instruire leurs enfants, aux niveaux primaire et secondaire, dans cette langue.</p></wrapUp>
+              </subsection>
+              <subsection eId="cmp_fra__sec_23__subsec_2" GUID="B9B5B6D5-CBC8-48A6-B0BB-0013603B1ACC">
+                <num>(2)</num>
+                <heading>Continuité d’emploi de la langue d’instruction</heading>
+                <content><p>Les citoyens canadiens dont un enfant a reçu ou reçoit son instruction, au niveau primaire ou secondaire, en français ou en anglais au Canada ont le droit de faire instruire tous leurs enfants, aux niveaux primaire et secondaire, dans la langue de cette instruction.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_23__subsec_3" GUID="2489B6C6-E329-45E4-9200-83277D922BB8">
+                <num>(3)</num>
+                <heading>Justification par le nombre</heading>
+                <intro><p>Le droit reconnu aux citoyens canadiens par les paragraphes <ref href="#cmp_fra__sec_23__subsec_1">(1)</ref> et <ref href="#cmp_fra__sec_23__subsec_2">(2)</ref> de faire instruire leurs enfants, aux niveaux primaire et secondaire, dans la langue de la minorité francophone ou anglophone d’une province :</p></intro>
+                <list eId="cmp_fra__sec_23__subsec_3__list_1" GUID="C99F160C-22F7-48B2-A45F-A5A3B74F2656">
+                  <point eId="cmp_fra__sec_23__subsec_3__list_1__point_a" GUID="E6434669-88BB-41DF-B469-A0CB4F1324E6">
+                    <num>a)</num>
+                    <content><p>s’exerce partout dans la province où le nombre des enfants des citoyens qui ont ce droit est suffisant pour justifier à leur endroit la prestation, sur les fonds publics, de l’instruction dans la langue de la minorité;</p></content>
+                  </point>
+                  <point eId="cmp_fra__sec_23__subsec_3__list_1__point_b" GUID="B26B083B-2A48-4F21-B83A-E9D1AB398145">
+                    <num>b)</num>
+                    <content><p>comprend, lorsque le nombre de ces enfants le justifie, le droit de les faire instruire dans des établissements d’enseignement de la minorité linguistique financés sur les fonds publics.</p></content>
+                  </point>
+                </list>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_9" GUID="F0E4DF38-D3A7-436C-B4CA-F6D70971A8CA">
+            <heading>Recours</heading>
+            <section eId="cmp_fra__sec_24" GUID="12DB0C64-2139-45B5-A6D3-B76CFB1AABFD">
+              <num>24</num>
+              <subsection eId="cmp_fra__sec_24__subsec_1" GUID="AEF2F4BC-FEB0-4325-B4B7-53BCEA6412E0">
+                <num>(1)</num>
+                <heading>Recours en cas d’atteinte aux droits et libertés</heading>
+                <content><p>Toute personne, victime de violation ou de négation des droits ou libertés qui lui sont garantis par la présente charte, peut s’adresser à un tribunal compétent pour obtenir la réparation que le tribunal estime convenable et juste eu égard aux circonstances.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_24__subsec_2" GUID="E1C47414-FB3D-40AD-8AD0-EED35697CB61">
+                <num>(2)</num>
+                <heading>Irrecevabilité d’éléments de preuve qui risqueraient de déconsidérer l’administration de la justice</heading>
+                <content><p>Lorsque, dans une instance visée au paragraphe <ref href="#cmp_fra__sec_24__subsec_1">(1)</ref>, le tribunal a conclu que des éléments de preuve ont été obtenus dans des conditions qui portent atteinte aux droits ou libertés garantis par la présente charte, ces éléments de preuve sont écartés s’il est établi, eu égard aux circonstances, que leur utilisation est susceptible de déconsidérer l’administration de la justice.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_10" GUID="7CB8EDE3-E947-49DF-A385-F5164935E53C">
+            <heading>Dispositions générales</heading>
+            <section eId="cmp_fra__sec_25" GUID="239CC78B-DE92-4BBB-9E5F-499B0D08E62C">
+              <num>25</num>
+              <heading>Maintien des droits et libertés des autochtones</heading>
+              <intro><p>Le fait que la présente charte garantit certains droits et libertés ne porte pas atteinte aux droits ou libertés — ancestraux, issus de traités ou autres — des peuples autochtones du Canada, notamment :</p></intro>
+              <list eId="cmp_fra__sec_25__list_1" GUID="BEA8AC43-02D4-4557-934A-40E25444473F">
+                <point eId="cmp_fra__sec_25__list_1__point_a" GUID="1A13BE61-167A-43E0-BA91-120A4DB4E6A8">
+                  <num>a)</num>
+                  <content><p>aux droits ou libertés reconnus par la proclamation royale du 7 octobre 1763;</p></content>
+                </point>
+                <point eId="cmp_fra__sec_25__list_1__point_b" GUID="38B527F0-4412-46E3-8E7B-3B2A60F743B0">
+                  <num>b)</num>
+                  <content><p>aux droits ou libertés existants issus d’accords sur des revendications territoriales ou ceux susceptibles d’être ainsi acquis.</p></content>
+                </point>
+              </list>
+            </section>
+            <section eId="cmp_fra__sec_26" GUID="8292D092-1314-478D-8A9C-926D8738ADAD">
+              <num>26</num>
+              <heading>Maintien des autres droits et libertés</heading>
+              <content><p>Le fait que la présente charte garantit certains droits et libertés ne constitue pas une négation des autres droits ou libertés qui existent au Canada.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_27" GUID="6EF0F003-6C23-4B00-826B-8D245F83338C">
+              <num>27</num>
+              <heading>Maintien du patrimoine culturel</heading>
+              <content><p>Toute interprétation de la présente charte doit concorder avec l’objectif de promouvoir le maintien et la valorisation du patrimoine multiculturel des Canadiens.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_28" GUID="5C36AEE5-B1EA-41E1-940C-B39F08677A1B">
+              <num>28</num>
+              <heading>Égalité de garantie des droits pour les deux sexes</heading>
+              <content><p>Indépendamment des autres dispositions de la présente charte, les droits et libertés qui y sont mentionnés sont garantis également aux personnes des deux sexes.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_29" GUID="C4CCCCA3-F7FA-4F3E-854F-0E00A33EE102">
+              <num>29</num>
+              <heading>Maintien des droits relatifs à certaines écoles</heading>
+              <content><p>Les dispositions de la présente charte ne portent pas atteinte aux droits ou privilèges garantis en vertu de la Constitution du Canada concernant les écoles séparées et autres écoles confessionnelles.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_30" GUID="3B5E9625-84F2-4A86-B498-151BC88E7C4F">
+              <num>30</num>
+              <heading>Application aux territoires</heading>
+              <content><p>Dans la présente charte, les dispositions qui visent les provinces, leur législature ou leur assemblée législative visent également le territoire du Yukon, les territoires du Nord-Ouest ou leurs autorités législatives compétentes.</p></content>
+            </section>
+            <section eId="cmp_fra__sec_31" GUID="1972DB36-F6F9-4B51-BA6F-537F0D35DACF">
+              <num>31</num>
+              <heading>Non-élargissement des compétences législatives</heading>
+              <content><p>La présente charte n’élargit pas les compétences législatives de quelque organisme ou autorité que ce soit.</p></content>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_11" GUID="9C44781C-D7F4-465D-BF90-6D151C19F895">
+            <heading>Application de la charte</heading>
+            <section eId="cmp_fra__sec_32" GUID="349FE187-0C3F-4B58-9206-B940BA73122B">
+              <num>32</num>
+              <subsection eId="cmp_fra__sec_32__subsec_1" GUID="53E26EE9-FE1B-42A8-B200-3DB4F797BE61">
+                <num>(1)</num>
+                <heading>Application de la charte</heading>
+                <intro><p>La présente charte s’applique :</p></intro>
+                <list eId="cmp_fra__sec_32__subsec_1__list_1" GUID="A3916764-DC00-42E1-8BBF-6E0E88AD9EFE">
+                  <point eId="cmp_fra__sec_32__subsec_1__list_1__point_a" GUID="974E2FEC-038E-434C-A2AE-C4D06C6968FA">
+                    <num>a)</num>
+                    <content><p>au Parlement et au gouvernement du Canada, pour tous les domaines relevant du Parlement, y compris ceux qui concernent le territoire du Yukon et les territoires du Nord-Ouest;</p></content>
+                  </point>
+                  <point eId="cmp_fra__sec_32__subsec_1__list_1__point_b" GUID="0416BB48-D6CE-4876-B140-9205E4528A6E">
+                    <num>b)</num>
+                    <content><p>à la législature et au gouvernement de chaque province, pour tous les domaines relevant de cette législature.</p></content>
+                  </point>
+                </list>
+              </subsection>
+              <subsection eId="cmp_fra__sec_32__subsec_2" GUID="40283D25-2C50-4402-AEC2-CA6D35F0DBEA">
+                <num>(2)</num>
+                <heading>Restriction</heading>
+                <content><p>Par dérogation au paragraphe <ref href="#cmp_fra__sec_32__subsec_1">(1)</ref>, l’article <ref href="#cmp_fra__sec_15">15</ref> n’a d’effet que trois ans après l’entrée en vigueur du présent article.</p></content>
+              </subsection>
+            </section>
+            <section eId="cmp_fra__sec_33" GUID="82FA9B88-05F5-4060-8DF4-B45D4D34FE4C">
+              <num>33</num>
+              <subsection eId="cmp_fra__sec_33__subsec_1" GUID="E965C835-AD3E-4977-85B7-ADCCE0D35891">
+                <num>(1)</num>
+                <heading>Dérogation par déclaration expresse</heading>
+                <content><p>Le Parlement ou la législature d’une province peut adopter une loi où il est expressément déclaré que celle-ci ou une de ses dispositions a effet indépendamment d’une disposition donnée de l’article <ref href="#cmp_fra__sec_2">2</ref> ou des articles <ref href="#cmp_fra__sec_7">7</ref> à <ref href="#cmp_fra__sec_15">15</ref> de la présente charte.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_33__subsec_2" GUID="E4106B51-5E08-49EA-A91D-E8C1A76D8543">
+                <num>(2)</num>
+                <heading>Effet de la dérogation</heading>
+                <content><p>La loi ou la disposition qui fait l’objet d’une déclaration conforme au présent article et en vigueur a l’effet qu’elle aurait sauf la disposition en cause de la charte.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_33__subsec_3" GUID="3997073B-A820-4F36-9558-67D009E35130">
+                <num>(3)</num>
+                <heading>Durée de validité</heading>
+                <content><p>La déclaration visée au paragraphe <ref href="#cmp_fra__sec_33__subsec_1">(1)</ref> cesse d’avoir effet à la date qui y est précisée ou, au plus tard, cinq ans après son entrée en vigueur.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_33__subsec_4" GUID="25D31EB7-1C51-4C7E-84A7-198919661C13">
+                <num>(4)</num>
+                <heading>Nouvelle adoption</heading>
+                <content><p>Le Parlement ou une législature peut adopter de nouveau une déclaration visée au paragraphe <ref href="#cmp_fra__sec_33__subsec_1">(1)</ref>.</p></content>
+              </subsection>
+              <subsection eId="cmp_fra__sec_33__subsec_5" GUID="0DC08826-2D1C-432D-9153-0196E7D16FCF">
+                <num>(5)</num>
+                <heading>Durée de validité</heading>
+                <content><p>Le paragraphe <ref href="#cmp_fra__sec_33__subsec_3">(3)</ref> s’applique à toute déclaration adoptée sous le régime du paragraphe <ref href="#cmp_fra__sec_33__subsec_4">(4)</ref>.</p></content>
+              </subsection>
+            </section>
+          </division>
+          <division eId="cmp_fra__part_I__dvs_12" GUID="F07F0978-134C-4A2B-A401-9904A6A6B44C">
+            <heading>Titre</heading>
+            <section eId="cmp_fra__sec_34" GUID="6E6A7683-ADA8-4262-873E-752F3E6AC195">
+              <num>34</num>
+              <heading>Titre</heading>
+              <content><p>Titre de la présente partie : <i>Charte canadienne des droits et libertés</i>.</p></content>
+            </section>
+          </division>
+        </part>
+        </body>
+      </act>
+      </component>
+    </collectionBody>
+  </documentCollection>
+</akomaNtoso>
