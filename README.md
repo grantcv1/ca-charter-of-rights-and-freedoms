@@ -60,3 +60,13 @@ Justice Canada's end note marks are left out, because they are editorial and not
 ## Font
 
 The stylesheet embeds Jost, licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** From Justice Canada. Canada's Reproduction of Federal Law Order lets anyone reproduce federal enactments, without charge or permission, if due diligence is used to keep them accurate and the copy is not represented as an official version.
+- **Images:** None.
+- **Fonts:** Jost, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
